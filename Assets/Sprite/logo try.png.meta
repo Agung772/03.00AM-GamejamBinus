@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: 63df999aeb9de4d43bc0d3bb5986b4b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6419046582229288070
+    second: logo try_0
+  - first:
+      213: -164440651958687202
+    second: logo try_1
+  - first:
+      213: -825994704545165274
+    second: logo try_2
+  - first:
+      213: -2957568997077977577
+    second: logo try_3
+  - first:
+      213: -5802749966137396304
+    second: logo try_4
+  - first:
+      213: -3610153218929113465
+    second: logo try_5
+  - first:
+      213: -6315582536672853766
+    second: logo try_6
+  - first:
+      213: -3684052828778024699
+    second: logo try_7
+  - first:
+      213: -8613327934401026526
+    second: logo try_8
+  - first:
+      213: -8310327475230252707
+    second: logo try_9
+  - first:
+      213: 3936807502682357000
+    second: logo try_10
+  - first:
+      213: 2770206062834560240
+    second: logo try_11
+  - first:
+      213: 262489433616169723
+    second: logo try_12
+  - first:
+      213: 371936273274945187
+    second: logo try_13
+  - first:
+      213: -7529853638653021525
+    second: logo try_14
+  - first:
+      213: -2615264016360840416
+    second: logo try_15
+  - first:
+      213: -7905696230941607700
+    second: logo try_16
+  - first:
+      213: -2325840891590419824
+    second: logo try_17
+  - first:
+      213: 116128062549998886
+    second: logo try_18
+  - first:
+      213: 1057549792504031475
+    second: logo try_19
+  - first:
+      213: 8646692617461183357
+    second: logo try_20
+  - first:
+      213: 5540785545795449034
+    second: logo try_21
+  - first:
+      213: -7456186894690392465
+    second: logo try_22
+  - first:
+      213: 5854998810216740421
+    second: logo try_23
+  - first:
+      213: -5960534155498079885
+    second: logo try_24
+  - first:
+      213: 3977086558647571279
+    second: logo try_25
+  - first:
+      213: -4710415097629679393
+    second: logo try_26
+  - first:
+      213: -6123091702497538140
+    second: logo try_27
+  - first:
+      213: -1222800487613503454
+    second: logo try_28
+  - first:
+      213: 3821403419066907981
+    second: logo try_29
+  - first:
+      213: -4059102553531821935
+    second: logo try_30
+  - first:
+      213: -9092199358337151692
+    second: logo try_31
+  - first:
+      213: 413007560804960591
+    second: logo try_32
+  - first:
+      213: 4047375885602717862
+    second: logo try_33
+  - first:
+      213: -1499790747468773445
+    second: logo try_34
+  - first:
+      213: -6766416756846248952
+    second: logo try_35
+  - first:
+      213: 3864916499208233636
+    second: logo try_36
+  - first:
+      213: -1838989500125755114
+    second: logo try_37
+  - first:
+      213: -2442731145176555194
+    second: logo try_38
+  - first:
+      213: -4176080782796820302
+    second: logo try_39
+  - first:
+      213: -7797278413245142343
+    second: logo try_40
+  - first:
+      213: -7695920007751483695
+    second: logo try_41
+  - first:
+      213: 7000898650702258265
+    second: logo try_42
+  - first:
+      213: 4912842061833548373
+    second: logo try_43
+  - first:
+      213: 264679519104432051
+    second: logo try_44
+  - first:
+      213: -2494442265604877569
+    second: logo try_45
+  - first:
+      213: 4911552419558616144
+    second: logo try_46
+  - first:
+      213: -2852985558547931551
+    second: logo try_47
+  - first:
+      213: -3024600832393563089
+    second: logo try_48
+  - first:
+      213: -7686881979082789837
+    second: logo try_49
+  - first:
+      213: -4622848686729259852
+    second: logo try_50
+  - first:
+      213: -9202451741083497109
+    second: logo try_51
+  - first:
+      213: -7564865449712105923
+    second: logo try_52
+  - first:
+      213: 2458431010679370692
+    second: logo try_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 121, y: 504, z: 230, w: 459}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo try_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 501
+        width: 1872
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb98d9427fae6a0800000000000000
+      internalID: -6419046582229288070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_1
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1172
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a6e59291ac7bdf0800000000000000
+      internalID: -164440651958687202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_2
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1187
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6205b39413a7984f0800000000000000
+      internalID: -825994704545165274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1159
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7167572caaa94f6d0800000000000000
+      internalID: -2957568997077977577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_4
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1166
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b378fb66ad787fa0800000000000000
+      internalID: -5802749966137396304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_5
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1159
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7864ff856c826edc0800000000000000
+      internalID: -3610153218929113465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_6
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1152
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af044ffe42b8a58a0800000000000000
+      internalID: -6315582536672853766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_7
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1154
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b9ee987d9fdcc0800000000000000
+      internalID: -3684052828778024699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_8
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1160
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e31801ef477880800000000000000
+      internalID: -8613327934401026526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_9
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1154
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d516bb7f039cbac80800000000000000
+      internalID: -8310327475230252707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1089
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d797ac09952a630800000000000000
+      internalID: 3936807502682357000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1075
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc23e9acbfb17620800000000000000
+      internalID: 2770206062834560240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1066
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa3cf7cfbc84a300800000000000000
+      internalID: 262489433616169723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_13
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 991
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb2a7e112692500800000000000000
+      internalID: 371936273274945187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_14
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 933
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba27761b206908790800000000000000
+      internalID: -7529853638653021525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_15
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 928
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02363febb37b4bbd0800000000000000
+      internalID: -2615264016360840416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_16
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 922
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8b4940a23594290800000000000000
+      internalID: -7905696230941607700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_17
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 914
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09adcac2804f8bfd0800000000000000
+      internalID: -2325840891590419824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_18
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 881
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d3fbc8bd19c9100800000000000000
+      internalID: 116128062549998886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_19
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 808
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8ad72eeeb2dae00800000000000000
+      internalID: 1057549792504031475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_20
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 771
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7334c99f193ff770800000000000000
+      internalID: 8646692617461183357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 734
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b1c9f813d4ec40800000000000000
+      internalID: 5540785545795449034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_22
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 708
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f666e0b168d468890800000000000000
+      internalID: -7456186894690392465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_23
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 676
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546bd439562214150800000000000000
+      internalID: 5854998810216740421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 670
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37934fd04cde74da0800000000000000
+      internalID: -5960534155498079885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_25
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 634
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f435b215723713730800000000000000
+      internalID: 3977086558647571279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 620
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd06521fc6e31aeb0800000000000000
+      internalID: -4710415097629679393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_27
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 606
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af0e71c988660ba0800000000000000
+      internalID: -6123091702497538140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 589
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2286f986f6db70fe0800000000000000
+      internalID: -1222800487613503454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 557
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d32f8b92a580530800000000000000
+      internalID: 3821403419066907981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 529
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190daddcbbb2ba7c0800000000000000
+      internalID: -4059102553531821935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_31
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 530
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d874b2bd402d180800000000000000
+      internalID: -9092199358337151692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_32
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 532
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f498457303c4bb500800000000000000
+      internalID: 413007560804960591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_33
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 530
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a005dd8cea2b2830800000000000000
+      internalID: 4047375885602717862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_34
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 530
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7c4bbe24caf2be0800000000000000
+      internalID: -1499790747468773445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_35
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 533
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cbde54fcbd812a0800000000000000
+      internalID: -6766416756846248952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_36
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 531
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a26add2411f2a530800000000000000
+      internalID: 3864916499208233636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 526
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c4530bc89a76e0800000000000000
+      internalID: -1838989500125755114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_38
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 522
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641e7f137fca91ed0800000000000000
+      internalID: -2442731145176555194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_39
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 523
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b07f0467a49b06c0800000000000000
+      internalID: -4176080782796820302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_40
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 519
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa3bb48908ac390800000000000000
+      internalID: -7797278413245142343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_41
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 526
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb6261789923590800000000000000
+      internalID: -7695920007751483695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_42
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 515
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950ae9ffa30382160800000000000000
+      internalID: 7000898650702258265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_43
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 522
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552bf2d63dbed2440800000000000000
+      internalID: 4912842061833548373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_44
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 515
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b77a8bce945ca300800000000000000
+      internalID: 264679519104432051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_45
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 522
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff296edb9f5f16dd0800000000000000
+      internalID: -2494442265604877569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_46
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 515
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c608f27e6592440800000000000000
+      internalID: 4911552419558616144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_47
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 517
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e5e6110c82868d0800000000000000
+      internalID: -2852985558547931551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_48
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 511
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24b4d561957606d0800000000000000
+      internalID: -3024600832393563089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_49
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 508
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c2b6e1195b25590800000000000000
+      internalID: -7686881979082789837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_50
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 509
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b41f11cc9758dfb0800000000000000
+      internalID: -4622848686729259852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_51
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 505
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d0b0ee5e25a4080800000000000000
+      internalID: -9202451741083497109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_52
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 502
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36c84034f2340790800000000000000
+      internalID: -7564865449712105923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo try_53
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 501
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c339589af91e1220800000000000000
+      internalID: 2458431010679370692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
