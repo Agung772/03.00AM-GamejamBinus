@@ -588,4 +588,10 @@ public class GameManager : MonoBehaviour
 
         }
     }
+
+    public void ResetSave()
+    {
+        setting.instance.sounds[1].source.Play();
+        PlayerPrefs.DeleteAll();
+    }
 }
